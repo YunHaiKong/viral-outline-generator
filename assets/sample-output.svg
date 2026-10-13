@@ -1,0 +1,42 @@
+<svg width="100%" viewBox="0 0 680 480" xmlns="http://www.w3.org/2000/svg" role="img">
+  <title>viral-outline-generator 输出示例</title>
+  <desc>一份公众号中篇大纲示例，含 3 钩子、5 节结构、素材与 CTA。</desc>
+  <defs>
+    <marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M2 1L8 5L2 9" fill="none" stroke="context-stroke" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+    </marker>
+  </defs>
+
+  <text class="th" x="340" y="36" text-anchor="middle" fill="#185FA5" style="font-size:14px; font-weight:500">示例输出：完整大纲（公众号中篇）</text>
+  <text class="ts" x="340" y="56" text-anchor="middle" fill="#5F5E5A" style="font-size:11px">选题：用 5 个 AI 工具把每天 2 小时压到 15 分钟</text>
+
+  <g>
+    <rect x="40" y="80" width="600" height="72" rx="8" fill="#EEEDFE" stroke="#534AB7" stroke-width="0.5"/>
+    <text class="th" x="56" y="100" fill="#26215C" style="font-size:12px; font-weight:500">开头钩子（3 选 1）</text>
+    <text class="ts" x="56" y="118" fill="#3C3489" style="font-size:11px">A 场景化：上个月我加班到 8 点，现在 6 点准时下班回家给孩子讲故事</text>
+    <text class="ts" x="56" y="134" fill="#3C3489" style="font-size:11px">B 反差钩：工作量没变，但每天省 2 小时，秘密在 5 个 AI 工具里</text>
+    <text class="ts" x="56" y="148" fill="#3C3489" style="font-size:11px">C 数字钩：2 小时 → 15 分钟，不是魔法，是工具</text>
+  </g>
+
+  <g>
+    <rect x="40" y="164" width="600" height="186" rx="8" fill="#FAEEDA" stroke="#BA7517" stroke-width="0.5"/>
+    <text class="th" x="56" y="184" fill="#412402" style="font-size:12px; font-weight:500">主体结构（中篇 → 5 节）</text>
+    <text class="ts" x="56" y="204" fill="#633806" style="font-size:11px">§1 起点：加班到 8 点的真实状态 · 300 字</text>
+    <text class="ts" x="56" y="222" fill="#633806" style="font-size:11px">§2 转机：同事安利的工具组合 · 300 字</text>
+    <text class="ts" x="56" y="240" fill="#633806" style="font-size:11px">§3 工具 1-5 拆解（每个 1 段） · 500 字</text>
+    <text class="ts" x="56" y="258" fill="#633806" style="font-size:11px">§4 实测对比：手动 vs AI 时间表 · 300 字</text>
+    <text class="ts" x="56" y="276" fill="#633806" style="font-size:11px">§5 新日常：6 点下班的时间表 · 200 字</text>
+    <text class="ts" x="56" y="300" fill="#854F0B" style="font-size:11px">每节带：字数 + 核心论点 + 1-2 个素材点</text>
+    <text class="ts" x="56" y="320" fill="#854F0B" style="font-size:11px">素材类型：截图 · 数据 · 案例 · 金句 · 视觉</text>
+    <text class="ts" x="56" y="340" fill="#854F0B" style="font-size:11px">需脱敏 / 需核实 标记</text>
+  </g>
+
+  <g>
+    <rect x="40" y="362" width="600" height="44" rx="8" fill="#E1F5EE" stroke="#0F6E56" stroke-width="0.5"/>
+    <text class="th" x="56" y="382" fill="#04342C" style="font-size:12px; font-weight:500">结尾 CTA（评论引流）</text>
+    <text class="ts" x="56" y="400" fill="#085041" style="font-size:11px">"你目前每天最耗时的 1 件事是什么？评论区告诉我，下篇挑点赞最高的 3 个留言出实测。"</text>
+  </g>
+
+  <text class="ts" x="340" y="430" text-anchor="middle" fill="#5F5E5A" style="font-size:11px">可继续：换平台重出 / 长篇 7 节扩展 / 写作 skill 直接展开正文</text>
+  <text class="ts" x="340" y="448" text-anchor="middle" fill="#5F5E5A" style="font-size:11px">输出格式：Markdown 块，可直接复制到腾讯文档 / Notion / 印象笔记</text>
+</svg>
